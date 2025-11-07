@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-11-06T09:48:14 PST" name="Default suite" finished-at="2025-11-06T09:48:22 PST" duration-ms="8024">
+    <groups>
+    </groups>
+    <test started-at="2025-11-06T09:48:14 PST" name="Default test" finished-at="2025-11-06T09:48:22 PST" duration-ms="8024">
+      <class name="testcases.TC_002_LogOut">
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:testcases.TC_002_LogOut@3ce1e309]" started-at="2025-11-06T09:48:14 PST" name="preCondition" finished-at="2025-11-06T09:48:21 PST" duration-ms="6628" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="TC_002_logout()[pri:0, instance:testcases.TC_002_LogOut@3ce1e309]" started-at="2025-11-06T09:48:21 PST" name="TC_002_logout" finished-at="2025-11-06T09:48:22 PST" duration-ms="1169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_002_logout -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:testcases.TC_002_LogOut@3ce1e309]" started-at="2025-11-06T09:48:22 PST" name="postCondition" finished-at="2025-11-06T09:48:22 PST" duration-ms="195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- testcases.TC_002_LogOut -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
